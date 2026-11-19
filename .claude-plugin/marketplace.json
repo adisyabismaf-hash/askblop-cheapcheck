@@ -1,0 +1,5 @@
+{
+  "name": "askblop-cheapcheck",
+  "owner": { "name": "adisyabismaf-hash" },
+  "plugins": [{ "name": "askblop-cheapcheck", "source": "./" }]
+}

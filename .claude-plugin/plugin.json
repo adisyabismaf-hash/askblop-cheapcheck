@@ -1,0 +1,5 @@
+{
+  "name": "askblop-cheapcheck",
+  "version": "0.1.0",
+  "description": "Slash command /blopcheck: audit mekanis naskah e-book Ask Blop tanpa token, plus opsi review gaya lewat Haiku."
+}
